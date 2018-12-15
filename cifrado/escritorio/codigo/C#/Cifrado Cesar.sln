@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cifrado Cesar", "Cifrado Cesar\Cifrado Cesar.csproj", "{2F5E02B5-4C5F-425E-BEA4-A1B2FEE4DB97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5E02B5-4C5F-425E-BEA4-A1B2FEE4DB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5E02B5-4C5F-425E-BEA4-A1B2FEE4DB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5E02B5-4C5F-425E-BEA4-A1B2FEE4DB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5E02B5-4C5F-425E-BEA4-A1B2FEE4DB97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
