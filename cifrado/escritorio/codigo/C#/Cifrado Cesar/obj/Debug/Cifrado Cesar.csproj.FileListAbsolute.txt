@@ -1,9 +1,0 @@
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\bin\Debug\Cifrado Cesar.exe.config
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\bin\Debug\Cifrado Cesar.exe
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\bin\Debug\Cifrado Cesar.pdb
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\obj\Debug\Cifrado Cesar.csprojResolveAssemblyReference.cache
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\obj\Debug\Cifrado_Cesar.Form1.resources
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\obj\Debug\Cifrado_Cesar.Properties.Resources.resources
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\obj\Debug\Cifrado Cesar.csproj.GenerateResource.Cache
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\obj\Debug\Cifrado Cesar.exe
-C:\Users\tenka\Documents\TALLER DE INVESTIGACION\Cifrado Cesar\Cifrado Cesar\obj\Debug\Cifrado Cesar.pdb
