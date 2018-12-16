@@ -1,0 +1,15 @@
+{
+  "name": "cifrador",
+  "version": "1.0.0",
+  "description": "contiene cifrado césar, transposición inversa y transposición inversa por grupos",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Martínez Luis Mario Enrique",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.10",
+    "electron-packager": "^12.2.0"
+  }
+}

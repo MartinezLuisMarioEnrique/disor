@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: purple;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+textarea{
+    resize: none;
+    margin: 20px 0px 0px 10px;
+}
+
+#desplazamientoCesar,
+#grupos{
+    margin: 10px 10px 10px 10px;
+}
+
+.formulario{
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    margin: 10px 0px 0px 10px;
+    font-size: 25px;
+}
+
+label {
+    color: white;
+}

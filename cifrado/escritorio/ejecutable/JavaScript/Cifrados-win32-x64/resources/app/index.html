@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="UTF-8">
+        <title>Cifrador Cesar y Transposición Inversa</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+        
+    <body>
+      <script src="js/Textos/TextoPlano.js"></script>
+      <script src="js/Textos/TextoCifrado.js"></script>
+      <script src="js/Cesar/Alfabeto.js"></script>
+      <script src="js/Cesar/Cifrador.js"></script>
+      <script src="js/TransposicionInversa/Cifrador.js"></script>
+      <script src="js/TransposicionInversaGrupos/Cifrador.js"></script>
+      <script src="js/Eventos/EventListener.js"></script>
+
+      <h1>METÓDOS CIFRADOS</h1>
+
+      <div class="formulario">
+        <label for="txtEntrada"  id="lblEntrada">Mensaje:</label>
+        <textarea id="txtEntrada" name="txtEntrada"
+                  rows="5" cols="33" maxlength="500"
+                  wrap="hard" onkeyup="txtEntrada_KeyUp()"></textarea>
+      </div>
+      
+      
+      <div class="titulo">
+          <label>Cifrado César</label>
+      </div>   
+      <div class="formulario">        
+        <label for="desplazamientoCesar">Desplazamiento:</label>
+        <input type="number" id="desplazamientoCesar" name="desplazamientoCesar" min="-64" max="64" value="1" onchange="desplazamientoCesar_Input()">
+        <label for="txtCifradoCesar"  id="lblCifrado">Mensaje cifrado:</label>
+        <textarea id="txtCifradoCesar" name="txtCifradoCesar"
+                  rows="5" cols="33"
+                  wrap="hard" ></textarea>
+      </div>
+
+      
+      <div class="titulo">
+          <label>TI</label>
+      </div>   
+      <div class="formulario">        
+        <label for="txtCifradoTI"  id="lblCifrado">Mensaje cifrado:</label>
+        <textarea id="txtCifradoTI" name="txtCifradoTI"
+                  rows="5" cols="33"
+                  wrap="hard" ></textarea>
+      </div>
+
+      <div class="titulo">
+          <label>TIA</label>
+      </div>      
+
+      <div class="formulario">
+        <label for="grupos">Número de grupos:</label>
+        <input type="number" id="grupos" name="grupos" min="1" max="64" value="1" onchange="grupos_Input()">
+        <label for="txtCifradoTIA"  id="lblCifrado">Mensaje cifrado:</label>
+        <textarea id="txtCifradoTIA" name="txtCifradoTIA"
+                  rows="5" cols="33"
+                  wrap="hard" ></textarea>
+      </div>
+
+    </body>
+  </html>
